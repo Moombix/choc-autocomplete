@@ -1,0 +1,1 @@
+{"version":3,"file":"autocomplete-list.d.ts","sourceRoot":"","sources":["../src/autocomplete-list.tsx"],"names":[],"mappings":"AAAA,OAAO,EAIL,mBAAmB,EAGpB,MAAM,kBAAkB,CAAC;AAC1B,OAAO,KAAK,MAAM,OAAO,CAAC;AAK1B,MAAM,WAAW,qBAAsB,SAAQ,mBAAmB;IAChE,YAAY,CAAC,EAAE,KAAK,CAAC,SAAS,CAAA;CAC/B;AAED,eAAO,MAAM,gBAAgB,0EAwB5B,CAAC"}
